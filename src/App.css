@@ -57,11 +57,11 @@ body {
   }
   
   th, td {
-    padding: 2px;
+    padding: 0px;
     text-align: left;
   }
   
   th {
-    background-color: white;
+    background-color: #f2f2f2;
   }
   
